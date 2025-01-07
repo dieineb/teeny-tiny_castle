@@ -1,6 +1,6 @@
 <div align="center">
 
-# Teeny-Tiny Castle: educational tools for AI Ethics and Safety research
+# Teeny-Tiny Castle: Educational Tools for AI Ethics and Safety Research
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7485126.svg)](https://doi.org/10.5281/zenodo.7485126)
 
@@ -8,7 +8,7 @@
 
 </div>
 
-AI Ethics and Safety are (relatively) new fields, and their tools (and how to handle them) are still unknown to most of the development community. To address this problem, we created the **Teeny-Tiny Castle**, an open-source repository containing **"Educational tools for AI Ethics and Safety Research"**. Here, the developer can find many examples of how to deal with various problems raised in the literature (e.g., algorithmic discrimination, model opacity, etc.).
+AI Ethics and Safety are (relatively) new fields, and most of the development community is still unaware of their tools (and how to handle them). To address this problem, we created the Teeny-Tiny Castle, an open-source repository containing **"Educational tools for AI Ethics and Safety Research"**. Here, the developer can find many examples of how to deal with various problems raised in the literature (e.g., algorithmic discrimination, model opacity, etc.).
 
 Our repository has several examples of how to work ethically and safely with AI, mainly focusing on issues related to **Accountability & Sustainability**, **Interpretability**, **Robustness/Adversarial**, and **Fairness**, all being worked through examples that refer to some of the most common contemporary AI applications (e.g., **Computer Vision**, **Natural language Processing**, **Classification & Forecasting**, etc.). In case you are new to the field, you will also find in the **Teeny-Tiny Castle** an [introductory course on ML](https://github.com/Nkluge-correa/TeenyTinyCastle/tree/master/ML-Intro-Course).
 
